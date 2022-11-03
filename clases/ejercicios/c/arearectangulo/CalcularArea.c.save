@@ -1,0 +1,17 @@
+/**
+*@file CalcularArea.c
+*@brief Este programa calcula el area de un rectangulo
+*@Author Clase de Gullermo Gomez
+*@date 24/sep/2021
+*
+*/
+#include <stdio.h>
+
+
+int main(void){
+	float base, altura, resultado;
+		printf("\nEste programa calcula el area de un rectángulo\nIngresa el valor de la base y la altura en centimetros: ");
+		scanf();
+
+return 0;
+}

@@ -1,0 +1,17 @@
+/
+/*
+
+/@file hola.c
+@brief Este es un ejemplo para entender el lenguaje C
+		es para imprimir un mensaje en pantalla
+@author Clase de Guillermo Gómez
+@date 21/sep/2021
+*/
+
+#include <stdio.h>
+int main(void)
+{
+	printf("hola mundo:)");
+	return 0;
+}
+
